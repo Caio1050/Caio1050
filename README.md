@@ -1,7 +1,6 @@
  👋 Hi, I’m @Caio1050
  
-- 👀 I’m interested in Desenvolver grandes projetos
-- 🌱 I’m currently learning Python 
+- 👀 I’m interested in Desenvolver grandes projetos 
 - 
 
 <!---
